@@ -11,7 +11,7 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Github Profile Page                         | https://github.com/Chemikarl/Chemikarl                                    |
 | 1    | Commit and Push Change from Command Line    | https://github.com/Chemikarl/ppchem/commit/2da232d65be9c158e55a06c5779bb17a560e5ff1               |
 | 1    | Create a New Branch                         | https://github.com/Chemikarl/ppchem/tree/testbranch        |
-| 1    | Create a conda environment                  | https://github.com/`username`/`repo-name`/blob/`branch-name`/`env.yml`      |
+| 1    | Create a conda environment                  | https://github.com/Chemikarl/ppchem/blob/main/env.yml    |
 | 1    | Fork a Repo                                 | https://github.com/Chemikarl/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
